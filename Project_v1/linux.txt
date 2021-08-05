@@ -5,3 +5,4 @@
 		When you’re starting a new project, git add serves the same function as svn import	. To create an initial commit of the current directory, use the following two commands:
 
 			A new line has been added
+				the End
